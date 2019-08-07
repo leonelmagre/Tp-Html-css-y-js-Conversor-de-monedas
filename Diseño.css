@@ -1,0 +1,91 @@
+title{
+	text-align:center;
+}
+h1{
+	background: black;
+	margin: 0 0 30px 0;
+	padding: 10px;
+	color: white;
+}
+input{
+	display:block;
+	margin: 10px 0;
+	height: 30px;
+	color:#666;
+
+}
+
+.libra{
+	padding: 30px;
+	background:rgba(0,0,0,7);
+	border: solid 1px silver;
+	width: 300px;
+	margin:auto;
+	border-radius: 10px;
+	color:#fff;
+}
+.peso{
+	padding: 30px;
+	background:rgba(0,0,0,7);
+	border: solid 1px silver;
+	width: 300px;
+	margin:auto;
+	border-radius: 10px;
+	color:#fff;
+}
+.dolar{
+	padding: 30px;
+	background:rgba(0,0,0,7);
+	border: solid 1px silver;
+	width: 300px;
+	margin:auto;
+	border-radius: 10px;
+	color:#fff;
+}
+.euro{
+	padding: 30px;
+	background:rgba(0,0,0,7);
+	border: solid 1px silver;
+	width: 300px;
+	margin:auto;
+	border-radius: 10px;
+	color:#fff;
+}
+
+#CambioD{
+	padding:15px;
+	background:yellow;
+}
+
+#CambioE{
+	padding:15px;
+	background:yellow;
+}
+
+
+#CambioP{
+	padding:15px;
+	background:yellow;
+}
+
+
+#CambioL{
+	padding:15px;
+	background:yellow;
+	
+}
+
+
+label{
+	font-size: 25px;
+}
+button{
+	padding:8 px;
+	width: 265
+}
+body{
+	background-color:green;
+}
+footer { text-align:center;
+}
+
